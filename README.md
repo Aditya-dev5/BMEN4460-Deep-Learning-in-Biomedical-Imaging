@@ -2,8 +2,14 @@
 *A Comparative Study on BraTS 2020 Brain Tumor MRI Dataset*  
 
 ## 🧠 Overview  
-This project compares four U-Net–based architectures — **Vanilla U-Net**, **U-Net++**, **Attention U-Net**, and **Swin U-Net** — for automated brain tumor segmentation on the **BraTS 2020** dataset.  
-It evaluates how dense skip connections, attention gates, and transformer-based encoders impact segmentation accuracy.
+This project compares four U-Net–based architectures — **Vanilla U-Net**, **U-Net++**, **Attention U-Net**, and **Swin U-Net** — for automated brain tumor segmentation on the **BraTS 2020** dataset. It evaluates how dense skip connections, attention gates, and transformer-based encoders impact segmentation accuracy.
+
+## Files (Training and evaluation of each of the 4 models and final project report)
+1. UNet++.ipynb
+2. Vanilla-UNet.ipynb
+3. attention-UNet.ipynb
+4. swin-UNet.ipynb
+5. Report.pdf
 
 ## ⚙️ Highlights  
 - Implemented 4 U-Net variants in **PyTorch**  
